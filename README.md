@@ -1,4 +1,4 @@
-A TypeScript client for the (FDC food central API)[https://fdc.nal.usda.gov/],
+A TypeScript client for the [FDC food central API](https://fdc.nal.usda.gov/),
 generated from their OpenAPI 3.x spec.
 
 After downloading the API definition (fdc_api.yml), the client library was
